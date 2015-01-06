@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageLoader", "ImageLoader\ImageLoader.csproj", "{81F0FCD0-550E-4F6D-8181-EBAB94A669CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageLoader.Test", "ImageLoader.Test\ImageLoader.Test.csproj", "{F7877480-AC98-4520-A94D-8A903DFF0DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F0FCD0-550E-4F6D-8181-EBAB94A669CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F0FCD0-550E-4F6D-8181-EBAB94A669CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F0FCD0-550E-4F6D-8181-EBAB94A669CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F0FCD0-550E-4F6D-8181-EBAB94A669CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7877480-AC98-4520-A94D-8A903DFF0DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7877480-AC98-4520-A94D-8A903DFF0DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7877480-AC98-4520-A94D-8A903DFF0DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7877480-AC98-4520-A94D-8A903DFF0DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

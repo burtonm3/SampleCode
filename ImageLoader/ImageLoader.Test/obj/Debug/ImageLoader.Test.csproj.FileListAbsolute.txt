@@ -1,0 +1,14 @@
+C:\Users\Mike\documents\visual studio 2012\Projects\ImageLoader\ImageLoader.Test\bin\Debug\ImageLoader.Test.dll
+C:\Users\Mike\documents\visual studio 2012\Projects\ImageLoader\ImageLoader.Test\bin\Debug\ImageLoader.Test.pdb
+C:\Users\Mike\documents\visual studio 2012\Projects\ImageLoader\ImageLoader.Test\bin\Debug\ImageLoader.exe
+C:\Users\Mike\documents\visual studio 2012\Projects\ImageLoader\ImageLoader.Test\bin\Debug\ImageLoader.pdb
+C:\Users\Mike\documents\visual studio 2012\Projects\ImageLoader\ImageLoader.Test\obj\Debug\ImageLoader.Test.csprojResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2012\Projects\ImageLoader\ImageLoader.Test\obj\Debug\ImageLoader.Test.dll
+C:\Users\Mike\documents\visual studio 2012\Projects\ImageLoader\ImageLoader.Test\obj\Debug\ImageLoader.Test.pdb
+C:\src\github\SampleCode\ImageLoader\ImageLoader.Test\bin\Debug\ImageLoader.Test.dll
+C:\src\github\SampleCode\ImageLoader\ImageLoader.Test\bin\Debug\ImageLoader.Test.pdb
+C:\src\github\SampleCode\ImageLoader\ImageLoader.Test\bin\Debug\ImageLoader.pdb
+C:\src\github\SampleCode\ImageLoader\ImageLoader.Test\obj\Debug\ImageLoader.Test.csprojResolveAssemblyReference.cache
+C:\src\github\SampleCode\ImageLoader\ImageLoader.Test\obj\Debug\ImageLoader.Test.dll
+C:\src\github\SampleCode\ImageLoader\ImageLoader.Test\obj\Debug\ImageLoader.Test.pdb
+C:\src\github\SampleCode\ImageLoader\ImageLoader.Test\bin\Debug\ImageLoader.dll
