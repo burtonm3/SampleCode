@@ -1,6 +1,6 @@
 SampleCode
 ==========
-This is a little sample code I wrote. The program reads from a text file and loads it into an ìImageî object.
+This is a little sample code I wrote. The program reads from a text file and loads it into an ‚ÄúImage‚Äù object.
 
 #Design 
 - I generally try to follow the S.O.L.I.D principles when I write code, and make sure that I keep good separation of concern. I generally always inject interfaces and avoid coupling to concrete implementations.
@@ -14,4 +14,6 @@ This is a little sample code I wrote. The program reads from a text file and loa
 
 - This implementation will not handle large files because I simply just read until EOF. This could be easly fixed by reading the file line by line or in small blocks, and using somthing like yield to make sure that your not drinking from a fire hose.
 
-- I assumed that there is only one data set per file. It would make sense that you would possibly want multiple images in one file separated by a delimiter or somthing. But for this implementation I assumed one image per file.- The easiest way to trace through the program is to run/look at the AClientCanGetAImageFromAImageFile() method in the ImageLoaderTestData class.  
+- I assumed that there is only one data set per file. It would make sense that you would possibly want multiple images in one file separated by a delimiter or somthing. But for this implementation I assumed one image per file.
+
+- The easiest way to trace through the program is to run/look at the AClientCanGetAImageFromAImageFile() method in the ImageLoaderTestData class.  
